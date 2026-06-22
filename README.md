@@ -1,18 +1,39 @@
-# 🚀 RD System
+🚀 RD System - Recurring Deposit Management System
+📌 Overview
 
-## Overview
+RD System is a Full Stack Web Application developed using Spring Boot, React.js, PostgreSQL, Hibernate and Bootstrap.
 
-RD System is a Full Stack Web Application built using React.js, Spring Boot, Hibernate, and PostgreSQL.
+The system helps financial institutions manage recurring deposit accounts, customer details, transactions, passbooks, loans and reports efficiently.
 
 ## Features
 
 - User Registration & Login
-- RD Account Management
 - Dashboard Analytics
-- Passbook Management
-- Loan Management
+- Create RD Account
+- RD User Management
+- Transaction History
+- Loan Eligibility Check
+- Loan History Tracking
 - EMI Calculator
 - Reports Dashboard
+- PDF Report Export
+- Logout
+
+
+🛠 Technologies Used
+Frontend
+- React.js
+- React Bootstrap
+- Axios
+
+Backend 
+- Springboot
+- Spring data JPA
+- Hiberanate
+- REST API
+
+Database
+- PostgreSQL
 
 ## Screenshots
 
@@ -33,3 +54,9 @@ RD System is a Full Stack Web Application built using React.js, Spring Boot, Hib
 
 ### Reports
 ![Reports](public/screenshot/reports.png)
+
+👨‍💻 Author
+
+Sumit Patil
+
+Java Full Stack Developer
